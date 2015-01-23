@@ -18,6 +18,7 @@ public class ApplicationGit {
         System.out.println("Hello"+ args[0] + "!");
         System.exit(1);
           System.out.println("Hello"+ args[0] + "!");
+          System.out.println("pour le conflit");
     }
     
 }
